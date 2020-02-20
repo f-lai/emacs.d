@@ -128,6 +128,8 @@
 (require 'init-folding)
 (require 'init-dash)
 
+(require 'global-overridings-mode)
+
 ;;(require 'init-twitter)
 ;; (require 'init-mu)
 (require 'init-ledger)
